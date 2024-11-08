@@ -1,0 +1,52 @@
+# Commands
+notes
+
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folder (if named 'vehicle-detection-env')
+vehicle-detection-env/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings and workspace files
+.vscode/
+.vscode/*
+
+# PyCharm settings
+.idea/
+
+# Python-specific files
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# YOLO model weights and any other large binary files
+*.pt
+*.onnx
+*.tflite
+*.edge
+*.trt
+
+# Logs and other output files
+*.log
+*.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files and backups
+*.bak
+*.swp
+*.swo
+*.tmp
