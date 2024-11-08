@@ -31,7 +31,6 @@ build/
 *.log
 
 # YOLO model weights and any other large binary files
-*.pt
 *.onnx
 *.tflite
 *.edge
