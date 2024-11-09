@@ -2,6 +2,9 @@
 
 This project is a vehicle detection application using the YOLOv5 deep learning model to identify and display bounding boxes around vehicles in a video stream. The application can detect cars, motorcycles, buses, and trucks, drawing bounding boxes around each detected vehicle in real-time.
 
+![2024-11-0909-58-00-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a7a5b675-7f64-46ee-a11e-0c94abf85e99)
+
+
 ## Table of Contents
 
 - [Features](#features)
